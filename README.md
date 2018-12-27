@@ -1,7 +1,7 @@
 # Traveling Salesman Problem
 Solving The Traveling Salesman Problem (TSP) using Google OR-TOOLS
 
-# Explanation
+# Explaination
 https://developers.google.com/optimization/routing/tsp
 
 # Run
